@@ -1,0 +1,34 @@
+{
+  "name": "secret-gen",
+  "version": "1.0.0",
+  "description": "Generates a secure random hex based secret for your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "secret-gen": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BlueHatbRit/secret-gen.git"
+  },
+  "keywords": [
+    "secure",
+    "random",
+    "hex",
+    "secret",
+    "generate",
+    "generator"
+  ],
+  "author": {
+    "name": "Elliot Blackburn",
+    "email": "elliot.blackburn@gmail.com",
+    "url": "www.elliotblackburn.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlueHatbRit/secret-gen/issues"
+  },
+  "homepage": "https://github.com/BlueHatbRit/secret-gen#readme"
+}
