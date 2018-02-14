@@ -1,13 +1,10 @@
 {
   "name": "secret-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates a secure random hex based secret for your app",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
-    "secret-gen": "index.js"
+    "secret-gen": "bin/index.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +21,7 @@
   "author": {
     "name": "Elliot Blackburn",
     "email": "elliot.blackburn@gmail.com",
-    "url": "www.elliotblackburn.com"
+    "url": "https://www.elliotblackburn.com"
   },
   "license": "MIT",
   "bugs": {
